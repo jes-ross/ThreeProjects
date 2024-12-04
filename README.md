@@ -2,7 +2,8 @@
 
 ## First Project
 
-The first project is a responsive Navigation bar with HTML, CSS and JavaScript
+The first project is a responsive Navigation bar with HTML, CSS and JavaScript.
+The second project is a responsive slider.
 
 
 # Purpose
